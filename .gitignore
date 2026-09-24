@@ -8,3 +8,5 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+*.parquet
+taxi_zone_lookup.csv
