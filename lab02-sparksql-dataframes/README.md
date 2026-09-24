@@ -3,9 +3,11 @@
 Exploratory analysis of the NYC yellow taxi trips (January 2019, about 7.7 million rows) with
 PySpark DataFrames and Spark SQL, enriched with the taxi zone lookup and compared with January 2025.
 
-**Notebook:** [`lab_sparksql_and_dataframes.ipynb`](lab_sparksql_and_dataframes.ipynb) - already
-executed, outputs and charts are visible directly on GitHub. Each result has a short markdown
-explanation above it.
+**Notebooks** (already executed, outputs are visible directly on GitHub, every result has a short
+markdown explanation above it):
+
+- [`lab_sparksql_and_dataframes.ipynb`](lab_sparksql_and_dataframes.ipynb) - Simon: includes 3 charts and compares January 2019 with January 2025.
+- [`lab_sparksql_and_dataframes_gautier.ipynb`](lab_sparksql_and_dataframes_gautier.ipynb) - Gautier: same lab with a different cleaning strategy, compares January 2019 with January 2026 (also by borough).
 
 ## What is covered
 
