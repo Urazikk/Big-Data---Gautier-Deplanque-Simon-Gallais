@@ -1,0 +1,10 @@
+# data downloaded by the notebooks (Project Gutenberg)
+*.txt
+# python / jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
